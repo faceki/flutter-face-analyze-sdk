@@ -1,0 +1,23 @@
+name: faceki_faceanalyze_sdk
+description: Faceki Face Analyze  SDK is a powerful tool that allows you to analyze faces in images for their age, gender and liveness
+repository: https://github.com/faceki/flutter-face-analyze-sdk
+version: 1.0.1
+
+environment:
+  sdk: ^3.2.6
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  http_parser: ^4.0.2
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
+
+platforms:
+  web:
+
+
